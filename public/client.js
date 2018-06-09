@@ -1,5 +1,5 @@
 //Make connection
-var socket = io.connect('https://ADD RASPBERRY PI IP ADDRESS HERER');
+var socket = io.connect('https://ADD RASPBERRY PI IP ADDRESS HERE:8080');
 
 //creates a variable from the <button> in the index.html page with the id of "LED"
 var LED = document.getElementById('LED');
