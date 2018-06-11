@@ -14,3 +14,10 @@ This is a Node.js application that controls the output of GPIO pin 7 on the Rasp
 
 # Configure the client.js file.
 In order for socket.io to establish a connection, you must add the IP address of your Raspberry Pi followed by the port number used to host the website (in this case I used port 8080).
+
+
+
+# Launch the Node application.
+Once you have installed all of the necessary modules and have configured the client.js file, the program is ready to run.
+In the command line, go to the directory that you have stored the repository and enter the following command
+sudo node app
