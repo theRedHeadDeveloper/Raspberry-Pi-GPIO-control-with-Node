@@ -3,7 +3,7 @@ This is a Node.js application that controls the output of GPIO pin 7 on the Rasp
 
 
 
-# After downloading the repository enter the following commands in the your Raspeberrry Pi's console.
+# After downloading the repository, enter the following commands in the your Raspeberrry Pi's console.
 1. npm init 
 2. npm install express 
 3. npm install epoll
@@ -12,5 +12,5 @@ This is a Node.js application that controls the output of GPIO pin 7 on the Rasp
 
 
 
-# Set configure the client.js file.
+# Configure the client.js file.
 In order for socket.io to establish a connection, you must add the IP address of your Raspberry Pi followed by the port number used to host the website (in this case I used port 8080).
