@@ -4,11 +4,10 @@ This is a Node.js application that controls the output of GPIO pin 7 on the Rasp
 
 
 # After downloading the repository, enter the following commands in the your Raspeberrry Pi's console.
-1. npm init 
-2. npm install express 
-3. npm install epoll
-4. npm install rpi-gpio
-5. npm install socket.io
+1. npm install express 
+2. npm install epoll
+3. npm install rpi-gpio
+4. npm install socket.io
 
 
 
