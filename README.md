@@ -20,4 +20,5 @@ In order for socket.io to establish a connection, you must add the IP address of
 # Launch the Node application.
 Once you have installed all of the necessary modules and have configured the client.js file, the program is ready to run.
 In the command line, go to the directory that you have stored the repository and enter the following command
+
 sudo node app
